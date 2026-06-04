@@ -32,3 +32,8 @@ com soluções e evoluir continuamente na área de tecnologia.
 
 ---
 
+### Contribuições
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/caiquemoran/caiquemoran/output/github-contribution-grid-snake-dark.svg" alt="Venom Snake" />
+</div>
