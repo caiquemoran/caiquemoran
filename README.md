@@ -18,5 +18,6 @@ com soluções e evoluir continuamente na área de tecnologia.
 ### Linguagens
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquemoran&layout=compact&theme=tokyonight&langs_count=6" alt="Minhas Linguagens" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=caiquemoran&theme=tokyonight" alt="Linguagens por Repositório" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=caiquemoran&theme=tokyonight" alt="Linguagens por Commit" />
 </div>
