@@ -30,6 +30,10 @@ com soluções e evoluir continuamente na área de tecnologia.
   <img src="./ser_melhor_ser_mais_gentil.gif" width="700" alt="Minha animação favorita" />
 </div>
 
+<p align="center">
+  "Eu quero ser alguém melhor, uma pessoa mais gentil... uma pessoa mais forte"
+</p>
+
 ---
 
 ### Contribuições
